@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  color: #03045e;
+}
+.bold {
+  font-weight: 900;
+}
+.button {
+  background: linear-gradient(to right, #0077b6, #03045e);
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fondoCompleto {
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), #00b4d890),
+    url(../img/imagen3.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  padding: 20% 0;
+  margin: 10% 5%;
+  height: 100%;
+}
+.centrado {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.texto {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: justify;
+  width: 400px;
+}
