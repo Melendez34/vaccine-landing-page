@@ -12,4 +12,4 @@ Las tecnologias que utilice fue:
 
 - CSS3 para el diseño del sitio.
 
-- Bootstrap para el diseño sencillo de elementos
+- Bootstrap para el diseño sencillo de elementos.
